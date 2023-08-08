@@ -1,0 +1,12 @@
+.bienaffiche th{
+	margin-left:50px;
+	padding-top:30px;
+	background-color:green;
+}
+	.bienaffiche td{
+	background-color:blue;
+	}
+	.bienaffiche td{
+     border-radius:2px;
+	 margin-left:200px;
+	 }

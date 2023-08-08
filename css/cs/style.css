@@ -1,0 +1,23 @@
+.bienaffiche th{
+	position:relative;
+	margin-left:50px;
+	padding-top:30px;
+	background-color:blue;
+	
+}
+.bienaffiche td{
+	background-color:yellow;
+}
+.bienaffiche{
+	border-radius:2px;
+	margin-left:200px;
+}
+.espace{
+	position:relative;
+	margin-top:100px;
+	background-color:green;
+}
+.espace body{
+	background-image:url(image/img1.jpg);
+	
+}

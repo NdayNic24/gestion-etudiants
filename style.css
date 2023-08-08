@@ -1,0 +1,23 @@
+
+	.danny{
+		position:relative;
+		margin-top:50px;
+		background-image:url(image/gggg.JPG);
+	}
+	.search{
+		margin-left:52vh;
+		
+	}
+	.menu{
+		background-color:#f7cbbc;
+		position:relative;
+		margin-top:50px;
+	}
+	.form{
+		position:relative;
+		margin-top:25%;
+		background-image:url(image/gggg.JPG);
+	}
+	h2{
+		color:#3c3c3c;
+	}
